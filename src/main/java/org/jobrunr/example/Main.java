@@ -15,6 +15,7 @@ public class Main {
 
         BackgroundJob.enqueue(() -> System.out.println("Simple!"));
 
+        // keep dashboard running by blocking the main thread
         Thread.currentThread().join();
     }
 
