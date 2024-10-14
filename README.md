@@ -1,6 +1,6 @@
 # Simple JobRunr Example Using The Fluent API
 
-A very minimalist example project to get you started with JobRunr. Checkout and run the [Main.java](./src/main/java/org/jobrunr/example/Main.java) class.
+A very minimalist example project to get you started with JobRunr. Checkout and run the [Main](./src/main/java/org/jobrunr/example/Main.java) class.
 
 > Feel free to play around with the configuration and use this to explore more of the JobRunr features.
 
